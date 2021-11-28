@@ -18,4 +18,5 @@ window.alert('This is a Alert Box');
 ![bro](https://user-images.githubusercontent.com/95132335/143728559-428bd585-437a-4d0b-88c1-5df4bdde2aa8.jpg)
 
 ![alertimg](https://user-images.githubusercontent.com/95132335/143728798-b68657d9-d213-44cf-a6b3-7debf944522c.png)
-![App Screenshot](https://imgur.com/a/e7UyXi5)
+
+![App Screenshot](https://imgur.com/lHYVkQL)
